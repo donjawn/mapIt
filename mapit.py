@@ -18,4 +18,4 @@ fullAddress = address1 + " " + address2
 
 
 # https://www.google.com/maps/place/<ADDRESS>    
-webbrowser.open("https://www.google.com/maps/place/" + fullAddress)
+webbrowser.open("https://www.google.com/maps/dir//" + fullAddress)
